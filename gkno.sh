@@ -12,9 +12,3 @@ git clone https://github.com/gkno/gkno_launcher.git
 cd gkno_launcher
 
 ./gkno build
-
-
-
-
-
-
